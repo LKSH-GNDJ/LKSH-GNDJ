@@ -60,7 +60,6 @@ I am an Electronics & Communication Engineering student specializing in Computat
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LKSH-GNDJ&show_icons=true&theme=radium)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LKSH-GNDJ&layout=compact&theme=radium)
 
-*(Be sure to replace `YOUR_GITHUB_USERNAME` in the two image links above with your actual GitHub username so the stats render correctly!)*
 
 ---
 
